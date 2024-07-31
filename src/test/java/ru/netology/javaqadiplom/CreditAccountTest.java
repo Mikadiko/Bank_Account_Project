@@ -94,7 +94,6 @@ public class CreditAccountTest {
     }
 
 
-
     @Test
     public void shouldNotCreateAccountIfCreditLimitNegative() {
 
